@@ -11,7 +11,7 @@ namespace Prueba
         static void Main(string[] args)
         {
             Console.Write("Hello world!");
-            Console.Write("Estoy en clase de ing. del software");
+            Console.Write("/nI'm testing Git Bash...");
         }
     }
 }
